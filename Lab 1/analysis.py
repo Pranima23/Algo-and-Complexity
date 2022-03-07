@@ -21,7 +21,7 @@ def search():
         'binary_worst': [],
         }
 
-    for size in range(10000, 110000, 10000):
+    for size in range(1, 100000, 10000):
         randomInputs = sort(random.sample(range(100000), size))
         
         exec_records['input_size'].append(size)
