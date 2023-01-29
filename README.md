@@ -1,0 +1,17 @@
+# DSA-Lab
+
+This is the lab work for the course DSA that I studied using Python.
+---
+##### Lab 1: Searching Algorithms
+- Linear Search
+- Binary Search
+- Analysis of Linear and Binary Search
+
+##### Lab 2: Sorting Algorithms
+- Insertion Sort
+- Merge Sort
+- Analysis of Insertion and Merge Sort
+
+##### Lab 3: Binary Search Tree
+- BST Implementation
+- Unit test cases for BST 
