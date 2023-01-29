@@ -1,6 +1,6 @@
 # DSA-Lab
 
-This is the lab work for the course DSA that I studied using Python.
+This is the lab work using Python for the course DSA that I studied in my third year.
 ---
 ##### Lab 1: Searching Algorithms
 - Linear Search
